@@ -6,6 +6,7 @@ With this pipeline we automatized the detection of peaks from tandem MS data gen
 <p align="center">
 <img src="https://github.com/Sbsten/Precursor_Ion_Scan_XCMS_SLs/blob/main/Graphical_summary_method.png"
       width="600">
+      
       Figure 1. Putative strigolactones detection workflow.
 </p>
 
