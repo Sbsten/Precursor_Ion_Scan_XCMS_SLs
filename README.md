@@ -6,8 +6,8 @@ With this pipeline we automatized the detection of peaks from tandem MS data gen
 <p align="center">
 <img src="https://github.com/Sbsten/Precursor_Ion_Scan_XCMS_SLs/blob/main/Graphical_summary_method.png"
       width="600">
-      
-      Figure 1. Putative strigolactones detection workflow.
+  <br>
+  <em>Figure 1. Putative strigolactones detection workflow.</em>
 </p>
 
 While being used for strigolactones detection, this method can be applied to other small molecules with conserved fragmentation patterns.
