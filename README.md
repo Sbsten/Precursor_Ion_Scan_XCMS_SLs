@@ -6,7 +6,7 @@ Here, we used a combination of two peak-picking algorithms in XCMS, continuous w
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sbsten/Precursor_Ion_Scan_XCMS_SLs/main/Graphical_summary_method.png"
+  <img src="https://github.com/Sbsten/Precursor_Ion_Scan_XCMS_SLs/blob/main/Graphical_summary_method.png"
        width="600">
 </p>
 
