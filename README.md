@@ -3,12 +3,14 @@ Analysis of chromatograms from precursor ion scan data to automate strigolactone
 
 With this pipeline we automatized the detection of peaks from tandem MS data generated using a precursor-ion scan mode to create Multiple Reaction Monitoring (MRM) channels. This method uses a fixed m/z on the MS2 detector to scan for precursors of specific fragments. Here we used 97 m/z as bait as it corresponds to the "D-ring" fragment commonly produced by strigolactones. To detect peaks, we used a combination of two peak-picking algorithms in XCMS, continuous wavelet transform (CWT) and MassifQuant.
 
+
 <p align="center">
 <img src="https://github.com/Sbsten/Precursor_Ion_Scan_XCMS_SLs/blob/main/Graphical_summary_method.png"
       width="600">
   <br>
   <em>Figure 1. Putative strigolactones detection workflow.</em>
 </p>
+
 
 While being used for strigolactones detection, this method can be applied to other small molecules with conserved fragmentation patterns.
 
