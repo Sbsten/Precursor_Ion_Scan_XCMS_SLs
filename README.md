@@ -1,5 +1,5 @@
 # Parent_Ion_Scan_XCMS
-With this pipeline we automatized the detection of peaks from tandem MS data generated using a precursor-ion scan mode to create Multiple Reaction Monitoring (MRM) channels. This method uses a fixed m/z on the MS2 detector to scan for precursors of specific fragments. Here we used 97 m/z as bait as it corresponds to the "D-ring" fragment commonly produced by strigolactones. To detect peaks, we used a combination of two peak-picking algorithms in XCMS, continuous wavelet transform (CWT) and MassifQuant.
+With this pipeline we automatized the detection of peaks from tandem MS data generated using a mass spectrometer in precursor-ion scan mode to create Multiple Reaction Monitoring (MRM) channels. This method uses a fixed m/z on the MS2 detector to scan for precursors of specific fragments. Here we used 97 m/z as bait as it corresponds to the "D-ring" fragment commonly produced by strigolactones. To detect peaks, we used a combination of two peak-picking algorithms in XCMS, continuous wavelet transform (CWT) and MassifQuant.
 
 
 <p align="center">
