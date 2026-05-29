@@ -5,10 +5,8 @@ With this pipeline we aimed at automatizing the detection of peaks from tandem M
 Here, we used a combination of two peak-picking algorithms in XCMS, continuous wavelet transform (CWT) and MassifQuant, to detect chromatographic peaks.
 
 
-<p align="center">
-  <img src="https://github.com/Sbsten/Precursor_Ion_Scan_XCMS_SLs/blob/main/Graphical_summary_method.png"
-       width="600">
-</p>
+<img src="https://github.com/Sbsten/Precursor_Ion_Scan_XCMS_SLs/blob/main/Graphical_summary_method.png"
+      width="600">
 
 
 While being used for strigolactones detection, this method can be applied to other small molecules with conserved fragmentation patterns.
